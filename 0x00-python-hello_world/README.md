@@ -1,2 +1,2 @@
-0x00. Python - Hello, World
-LUNES
+python hello world project
+

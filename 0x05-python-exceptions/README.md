@@ -1,2 +1,1 @@
-0x05. Python - Exceptions
-LUNES
+#0x05. Python - Exceptions

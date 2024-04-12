@@ -1,9 +1,3 @@
 #!/usr/bin/python3
-charend = ", "
-for i in range(0, 100):
-    if i < 10:
-        print("{}{}".format(0, i), end=charend)
-    else:
-        if i == 99:
-            charend = "\n"
-        print(i, end=charend)
+for num in range(0, 100):
+    print("{:02d}".format(num), end='\n' if num == 99 else ", ")

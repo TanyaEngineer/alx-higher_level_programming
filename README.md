@@ -1,3 +1,2 @@
-0x00. Python - Hello, World
-Tanyaradzwa Maribini
-
+Welcome to high level programming projects
+This is the basic using python
