@@ -2,6 +2,9 @@
 
 
 def update_dictionary(a_dictionary, key, value):
-    n_dic = {key: value}
-    a_dictionary.update(n_dic)
+    """
+    A function that replaces or adds
+    key/value in a dictionary.
+    """
+    a_dictionary[key] = value
     return a_dictionary
